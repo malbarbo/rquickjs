@@ -147,6 +147,7 @@ fn main() {
         "get_function_proto.patch",
         "check_stack_overflow.patch",
         "infinity_handling.patch",
+        "quickjs_ng_regex.patch",
     ];
 
     let version =
